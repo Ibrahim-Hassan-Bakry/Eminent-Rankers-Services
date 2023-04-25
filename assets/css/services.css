@@ -1,0 +1,28 @@
+@media screen and (max-width: 992px) {
+  .hero .container .row .col-lg-6 .img-box img {
+    width: 400px;
+  }
+}
+
+.hero .container .row .col-lg-6.content {
+  border-radius: 25px;
+  height: auto;
+  text-align: left;
+  background: transparent;
+}
+.hero .container .row .col-lg-6.content .text {
+  color: #2b3e50;
+}
+.hero .container .row .col-lg-6.content p {
+  line-height: 2;
+  color: #db4a3f;
+}
+
+.front img {
+  width: 100%;
+  height: auto;
+}
+
+.back-content .content .btn-box {
+  width: 100%;
+}
